@@ -1,0 +1,28 @@
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.exe
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.deps.json
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.runtimeconfig.json
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.pdb
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.AssemblyInfoInputs.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.AssemblyInfo.cs
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.csproj.CoreCompileInputs.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\refint\Semana 9- Lista diccionario.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.pdb
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.genruntimeconfig.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Clases\Semana 9- Lista diccionario\obj\Debug\net8.0\ref\Semana 9- Lista diccionario.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.exe
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.deps.json
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.runtimeconfig.json
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\bin\Debug\net8.0\Semana 9- Lista diccionario.pdb
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.AssemblyInfoInputs.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.AssemblyInfo.cs
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.csproj.CoreCompileInputs.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\refint\Semana 9- Lista diccionario.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.pdb
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\Semana 9- Lista diccionario.genruntimeconfig.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Semana 9- Lista diccionario\obj\Debug\net8.0\ref\Semana 9- Lista diccionario.dll

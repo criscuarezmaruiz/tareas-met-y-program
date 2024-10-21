@@ -1,0 +1,14 @@
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\bin\Debug\net8.0\Ejercicio 2 guia semana 9.exe
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\bin\Debug\net8.0\Ejercicio 2 guia semana 9.deps.json
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\bin\Debug\net8.0\Ejercicio 2 guia semana 9.runtimeconfig.json
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\bin\Debug\net8.0\Ejercicio 2 guia semana 9.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\bin\Debug\net8.0\Ejercicio 2 guia semana 9.pdb
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\Ejercicio 2 guia semana 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\Ejercicio 2 guia semana 9.AssemblyInfoInputs.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\Ejercicio 2 guia semana 9.AssemblyInfo.cs
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\Ejercicio 2 guia semana 9.csproj.CoreCompileInputs.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\Ejercicio 2 guia semana 9.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\refint\Ejercicio 2 guia semana 9.dll
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\Ejercicio 2 guia semana 9.pdb
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\Ejercicio 2 guia semana 9.genruntimeconfig.cache
+C:\Users\cuare\OneDrive\Documentos\Metodologia y programación estructurada\Tareas\3 ejercicios guia didactica semana 9\Ejercicio 2 guia semana 9\obj\Debug\net8.0\ref\Ejercicio 2 guia semana 9.dll
